@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 這個專頁簡易紀錄一些 Parsing 知名新聞網站 並且 建立成 Interactional Network 的 Tools :
 
-(都是以World版為範例)
+(都是以World News 為範例)
 
 NY York Times: https://www.nytimes.com/section/world
 
@@ -16,9 +16,9 @@ BBC News : https://www.bbc.com/news/world
 
 Express Daily News : https://www.express.co.uk/news/world
 
-### P
+### ParsingHotNews
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+這份檔案專門爬取當日的熱門新聞，取得其網址以及標題
 
 ```markdown
 Syntax highlighted code block
@@ -32,18 +32,19 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
-
+<!--
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
+```-->
 <!--
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicoChen1204/Cross-platform-News/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 -->
+<!--### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/NicoChen1204/Cross-platform-News/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
