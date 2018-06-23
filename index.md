@@ -5,15 +5,18 @@ You can use the [editor on GitHub](https://github.com/NicoChen1204/Cross-platfor
 <!--
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
-這個專頁簡易紀錄一些 Parsing 知名新聞網站 的工具 :
 
-NY York Times: https://www.nytimes.com/
+這個專頁簡易紀錄一些 Parsing 知名新聞網站 並且 建立成 Interactional Network 的 Tools :
 
-BBC News : https://www.bbc.com/news
+(都是以World版為範例)
 
-Express Daily News : https://www.express.co.uk/
+NY York Times: https://www.nytimes.com/section/world
 
-### Markdown
+BBC News : https://www.bbc.com/news/world
+
+Express Daily News : https://www.express.co.uk/news/world
+
+### P
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
