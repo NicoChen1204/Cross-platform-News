@@ -18,15 +18,17 @@ Express Daily News : https://www.express.co.uk/news/world
 
 ## ParsingHotNews
 
-# 這份檔案專門爬取當日的熱門新聞，取得其Hred以及Title
+### 這份檔案專門爬取當日的熱門新聞，取得其Href 以及Title
 
-關於Beautiful Soup的套件用法可以參考 :
+關於 Beautiful Soup的套件用法可以參考 :
 
 https://blog.gtwang.org/programming/python-beautiful-soup-module-scrape-web-pages-tutorial/
 
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 ```markdown
 
-
+From    import ParsingHotNews
 
 - Bulleted
 - List
