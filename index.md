@@ -16,22 +16,24 @@ BBC News : https://www.bbc.com/news/world
 
 Express Daily News : https://www.express.co.uk/news/world
 
-### ParsingHotNews
+## ParsingHotNews
 
-這份檔案專門爬取當日的熱門新聞，取得其網址以及標題
+# 這份檔案專門爬取當日的熱門新聞，取得其Hred以及Title
+
+關於Beautiful Soup的套件用法可以參考 :
+
+https://blog.gtwang.org/programming/python-beautiful-soup-module-scrape-web-pages-tutorial/
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
 
 - Bulleted
 - List
 
 1. Numbered
 2. List
+```
 <!--
 **Bold** and _Italic_ and `Code` text
 
